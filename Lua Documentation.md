@@ -8,7 +8,7 @@ os.pullEvent(<filter: String>)
 sleep(seconds:Float)
 --@sleep: Takes float seconds to yield
 ```
-See: [[Event Documentation]]
+See: [Event Documentation](https://github.com/A-Cloud-Ninja/LuaHackerDocs/blob/WIP/Event%20Documentation.md)
 ## Terminal
 ```lua
 term.write(text:String)
